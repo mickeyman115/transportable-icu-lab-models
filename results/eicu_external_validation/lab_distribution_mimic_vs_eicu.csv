@@ -1,0 +1,9 @@
+source,variable,n,median,p05,p95,max
+mimic,glucose_max_24h,61917,156.0,94.0,329.0,1000.0
+mimic,creatinine_max_24h,61917,1.0,0.5,3.8,24.7
+mimic,bun_max_24h,61917,18.0,8.0,67.0,257.0
+mimic,wbc_max_24h,61917,11.6,4.9,25.6,479.3
+eicu,glucose_max_24h,109687,147.0,89.0,334.0,998.0
+eicu,creatinine_max_24h,109687,1.0,0.51,4.3,29.3
+eicu,bun_max_24h,109687,18.0,7.0,67.0,298.0
+eicu,wbc_max_24h,109687,10.9,4.7,24.6,498.8

@@ -1,0 +1,11 @@
+source,variable,n,non_missing,coverage_percent
+eicu_alive24_all,glucose_max_24h,136137,123668,90.84084414964337
+eicu_alive24_all,creatinine_max_24h,136137,118363,86.94403431837047
+eicu_alive24_all,bun_max_24h,136137,117881,86.58997921211721
+eicu_alive24_all,wbc_max_24h,136137,113802,83.59373278388682
+eicu_alive24_all,core4_complete_24h,136137,109691,80.57398062246119
+eicu_alive24_analytic,glucose_max_24h,109687,109687,100.0
+eicu_alive24_analytic,creatinine_max_24h,109687,109687,100.0
+eicu_alive24_analytic,bun_max_24h,109687,109687,100.0
+eicu_alive24_analytic,wbc_max_24h,109687,109687,100.0
+eicu_alive24_analytic,core4_complete_24h,109687,109687,100.0

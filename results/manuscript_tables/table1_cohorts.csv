@@ -1,0 +1,5 @@
+Cohort,Role,N,Events,Event rate,Core-four complete
+MIMIC-IV development,Development,"53,647","4,610",8.6%,100.0%
+MIMIC-IV temporal validation,Temporal validation,"8,270",942,11.4%,100.0%
+eICU first stays,External source cohort,"139,367","9,699",7.0%,79.9%
+eICU analytic cohort,External validation,"109,687","8,540",7.8%,100.0%

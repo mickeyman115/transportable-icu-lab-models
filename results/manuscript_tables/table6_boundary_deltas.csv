@@ -1,0 +1,5 @@
+Comparison,Sample,Delta AUC,95% CI
+RCS core-four vs binary core-four,MIMIC temporal,0.0319,0.0229 to 0.0415
+OASIS-like + RCS labs vs OASIS-like,MIMIC temporal,0.0336,0.0267 to 0.0401
+Non-respiratory SOFA-like + RCS labs vs non-respiratory SOFA-like,MIMIC temporal,0.0218,0.0144 to 0.0281
+Recalibrated APACHE + RCS labs vs recalibrated APACHE,eICU 5-fold CV,0.0032,Not bootstrapped

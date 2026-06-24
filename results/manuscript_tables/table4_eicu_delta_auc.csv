@@ -1,0 +1,5 @@
+Comparison,Sample,N,Events,Delta AUC,95% CI
+Binary high-threshold core-four vs age/sex,eICU external,"109,687","8,540",0.1109,0.1055 to 0.1164
+RCS core-four vs age/sex,eICU external,"109,687","8,540",0.1252,0.1194 to 0.1314
+RCS core-four vs binary high-threshold core-four,eICU external,"109,687","8,540",0.0143,0.0121 to 0.0169
+BUN+WBC RCS vs age/sex,eICU external,"109,687","8,540",0.1190,0.1123 to 0.1250

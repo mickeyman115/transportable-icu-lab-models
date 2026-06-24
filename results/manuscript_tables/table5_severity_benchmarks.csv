@@ -1,0 +1,11 @@
+Benchmark/model,Sample,N,Events,AUC,Brier
+OASIS-like benchmark,MIMIC temporal,"8,270",942,0.788,0.090
+OASIS-like + RCS core-four labs,MIMIC temporal,"8,270",942,0.822,0.086
+Non-respiratory SOFA-like benchmark,MIMIC temporal,"8,270",942,0.778,0.089
+Non-respiratory SOFA-like + RCS core-four labs,MIMIC temporal,"8,270",942,0.800,0.088
+Native APACHE predicted hospital mortality,eICU APACHE subset,"94,728","7,679",0.842,0.063
+Native APACHE predicted ICU mortality,eICU APACHE subset,"94,728","7,679",0.836,0.061
+Native APACHE score,eICU APACHE subset,"94,728","7,679",0.817,
+Native acute physiology score,eICU APACHE subset,"94,728","7,679",0.797,
+Recalibrated APACHE predicted hospital mortality,eICU 5-fold CV,"94,728","7,679",0.842,0.060
+Recalibrated APACHE + MIMIC RCS lab predictor,eICU 5-fold CV,"94,728","7,679",0.845,0.060

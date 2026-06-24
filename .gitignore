@@ -1,0 +1,25 @@
+# Local credentialed database copies
+data/
+
+# Restricted derived patient-level caches
+derived_cache/
+*.csv.gz
+*.parquet
+*.feather
+*.sqlite
+*.db
+
+# Patient-level prediction outputs
+results/**/eicu_external_predictions_restricted*
+results/**/*restricted*
+
+# Local environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Large or local-only exports
+*.docx
+*.pdf
+

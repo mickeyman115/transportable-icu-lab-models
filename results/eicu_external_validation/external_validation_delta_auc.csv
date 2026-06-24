@@ -1,0 +1,5 @@
+delta_auc,delta_auc_ci_low,delta_auc_ci_high,bootstrap_reps_used,comparison,sample,base_model,new_model,n,events
+0.11092653273973285,0.10553685394826987,0.1164269340545415,300,binary_core4 vs age_sex,eicu_external_validation,age_sex,binary_core4,109687,8540
+0.12519861011527988,0.11937567444275751,0.13143164314285674,300,rcs_core4 vs age_sex,eicu_external_validation,age_sex,rcs_core4,109687,8540
+0.014272077375547032,0.01205014973125294,0.01688428361588669,300,rcs_core4 vs binary_core4,eicu_external_validation,binary_core4,rcs_core4,109687,8540
+0.11898342406045281,0.11233823687979957,0.1250036012846586,300,rcs_bun_wbc vs age_sex,eicu_external_validation,age_sex,rcs_bun_wbc,109687,8540

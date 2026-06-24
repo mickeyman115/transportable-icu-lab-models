@@ -1,0 +1,4 @@
+cohort,n,events,event_rate_percent,core4_complete_percent
+mimic_alive24_core4_common,61917,5552,8.96684270878757,100.0
+eicu_first_stay_all,139367,9699,6.959323225727755,79.90485552533957
+eicu_alive24_core4_common,109687,8540,7.785790476537785,100.0
